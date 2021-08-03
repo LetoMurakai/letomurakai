@@ -42,7 +42,7 @@
 
 ### Participação em projetos🤝
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letomurakai&repo=illuminer-Angular&theme=tokyonight)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidCostaBKE&repo=Projeto-Integrador&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidCostaMariano&repo=Projeto-Integrador&theme=tokyonight)
 
 ### Praticando...💪
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letomurakai&repo=turma21&theme=dark)
