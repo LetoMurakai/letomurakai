@@ -4,7 +4,7 @@
 - 🚀 Estudante de front-end ...
 - 🎓 Generation Brasil
 - 📍 Guarulhos/São Paulo
-- <a href="https://letomurakai.netlify.app/">
+- <a href="https://letomurakai.netlify.app/">Portfólio</a>
 <hr>
 <div align="center"> 
   <a href="">
