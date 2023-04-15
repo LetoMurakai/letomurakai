@@ -34,25 +34,3 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
-
-##
-
-### Sites desenvolvidos🧱
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letomurakai&repo=mojave&theme=dracula)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letomurakai&repo=Horizon-site&theme=dracula)
-
-### Participação em projetos🤝
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letomurakai&repo=illuminer-Angular&theme=tokyonight)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidCostaMariano&repo=Projeto-Integrador&theme=tokyonight)
-
-### Praticando...💪
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letomurakai&repo=turma21&theme=dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letomurakai&repo=fundamentosPython&theme=dark)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letomurakai&repo=BlogPessoalcomAngular&theme=dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letomurakai&repo=fundamentosWebFramework&theme=dark)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letomurakai&repo=fundamentosHtml&theme=dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letomurakai&repo=blogPessoal&theme=dark)
-
-##
